@@ -1,0 +1,1 @@
+# ESRC for Android XWalk
