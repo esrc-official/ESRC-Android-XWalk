@@ -14,7 +14,7 @@ import org.xwalk.core.XWalkView;
 public class MainActivity extends XWalkActivity {
     private XWalkView mXWalkView;
 
-    private static final String APP_ID = "BAB7933D-C0D6-476F-8165-F26BC4C53B82";  // Application ID.
+    private static final String APP_ID = "";  // Application ID.
     private static final boolean ENABLE_HRV = true;  // Enablement of HRV analysis.
     private static final boolean ENABLE_DRAW = false;  // Enablement of visualzation.
 
