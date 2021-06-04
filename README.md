@@ -1,1 +1,1 @@
-# ESRC-Android-XWalk
+# ESRC for Android XWalk
